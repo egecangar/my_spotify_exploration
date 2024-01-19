@@ -1,6 +1,6 @@
 # Spotify Analysis Project
 
-It is the end-of-term project of my CS 210 course.
+It is the term project of my CS 210 course.
 
 ## Setup
 
