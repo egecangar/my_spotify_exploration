@@ -46,7 +46,12 @@ SPOTIFY_CLIENT_ID = xxx
 SPOTIFY_CLIENT_SECRET = yyy
 SPOTIFY_REDIRECT_URI = https://example.com/callback
 ```
-
+```
+[My Account]
+SPOTIFY_CLIENT_ID = 00dbc84838e6422e994c8adaf6d2599c
+SPOTIFY_CLIENT_SECRET = e0412c081983415dbc9319504104b220
+SPOTIFY_REDIRECT_URI = http://localhost:8788/callback
+```
 ### Add a refresh token to your config file
 
 Then add a refresh token to the config file by running
